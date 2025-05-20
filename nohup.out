@@ -1,0 +1,27 @@
+usage: run_100.py [-h] [--env_model_name ENV_MODEL_NAME] --agent_model_name
+                  AGENT_MODEL_NAME --model_path MODEL_PATH --dataset_path
+                  DATASET_PATH [--adapter_model_path ADAPTER_MODEL_PATH]
+                  [--tool_path TOOL_PATH] [--temperature TEMPERATURE]
+                  [--max_plan_step MAX_PLAN_STEP]
+                  [--log_save_path LOG_SAVE_PATH] [--run_pattern RUN_PATTERN]
+                  [--env_pattern ENV_PATTERN] --save_path SAVE_PATH --template
+                  TEMPLATE
+run_100.py: error: the following arguments are required: --model_path, --dataset_path, --save_path, --template
+usage: run_100.py [-h] [--env_model_name ENV_MODEL_NAME] --agent_model_name
+                  AGENT_MODEL_NAME --model_path MODEL_PATH --dataset_path
+                  DATASET_PATH [--adapter_model_path ADAPTER_MODEL_PATH]
+                  [--tool_path TOOL_PATH] [--temperature TEMPERATURE]
+                  [--max_plan_step MAX_PLAN_STEP]
+                  [--log_save_path LOG_SAVE_PATH] [--run_pattern RUN_PATTERN]
+                  [--env_pattern ENV_PATTERN] --save_path SAVE_PATH --template
+                  TEMPLATE
+run_100.py: error: the following arguments are required: --save_path, --template
+usage: run_100.py [-h] [--env_model_name ENV_MODEL_NAME] --agent_model_name
+                  AGENT_MODEL_NAME --model_path MODEL_PATH --dataset_path
+                  DATASET_PATH [--adapter_model_path ADAPTER_MODEL_PATH]
+                  [--tool_path TOOL_PATH] [--temperature TEMPERATURE]
+                  [--max_plan_step MAX_PLAN_STEP]
+                  [--log_save_path LOG_SAVE_PATH] [--run_pattern RUN_PATTERN]
+                  [--env_pattern ENV_PATTERN] --save_path SAVE_PATH --template
+                  TEMPLATE
+run_100.py: error: the following arguments are required: --save_path, --template
