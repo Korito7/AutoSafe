@@ -16,14 +16,8 @@ os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 
 client = OpenAI(
-    # api_key="sk-ADMZEv6yeBpXjgjNhE7Deb2v7zmvU4uNFgWLmHp9j9hl3ajy",
-    # base_url="https://api.keya.pw/v1",
-
-    # api_key="sk-cca286518d2445d89f8aefa8d7a05a4b",
-    # base_url="https://dashscope.aliyuncs.com/compatible-mode/v1",
-
-    api_key="sk-nZJYNMD1NIJ2ZSp2QINT5TOK6yQQuQWET0muc9txg4nvAo0i",
-    base_url="https://4.0.wokaai.com/v1/",
+    api_key="Your API key.",
+    base_url="Base URL.",
 )
 
 import anthropic
