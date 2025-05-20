@@ -1,7 +1,0 @@
-nohup: ignoring input
-Traceback (most recent call last):
-  File "/home/zhouxueyang/Safety_code/Security_agent_ReAct_2/run_100.py", line 70, in <module>
-    exec(code)
-  File "<string>", line 161, in <module>
-  File "<string>", line 49, in main
-Exception: /data/zxy/data/rebutal/ours/test/datas_just_BOandPD.json is not exist!
